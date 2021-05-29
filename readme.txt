@@ -1,3 +1,6 @@
+
+## site is [live](https://thecheesybit.github.io/smapleDelpy)
+
 ==================================================================================================
 
 DESCRIPTION:
